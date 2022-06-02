@@ -8,7 +8,7 @@ My design is to help students improve the quality of learning software. By addin
 ![imagename](./Readme/RM1.png)
 
 **Users can add tasks through add+ in the upper right corner**
-![imagename](RM2.png)
+![imagename](./Readme/RM2.png)
 **In the add new task interface, you need to enter correct information, such as task name, completion date, set learning time, priority, and completion status.**
 **After adding new tasks, the system will sort the newly added tasks on the home page according to their priority. If the priority is the same, they will be sorted according to the remaining date of the task.**
 
