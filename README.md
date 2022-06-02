@@ -5,7 +5,7 @@ My design is to help students improve the quality of learning software. By addin
 ## Use guide
 
 ### Adding Task
-![imagename](RM1.png)
+![imagename](./Readme/RM1.png)
 
 **Users can add tasks through add+ in the upper right corner**
 ![imagename](RM2.png)
